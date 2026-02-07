@@ -201,8 +201,6 @@ python src/main.py --epochs 3 --batch 256
 python src/result.py
 ```
 
----
-
 ### Demo (Streamlit)
 
 ```bash
@@ -225,8 +223,6 @@ streamlit run app/app.py
 └── best_model/              # Saved model weights
 ```
 
----
-
 ## 🔮 Future Work
 
 1. **Multi-language support:** Extend to Spanish, French, Thai
@@ -236,8 +232,6 @@ streamlit run app/app.py
 5. **Explainability:** Add LIME/SHAP for interpretability
 6. **Real-time monitoring:** Deploy as social media alert system
 
----
-
 ## 📚 References
 
 1. Despotis, A., et al. (2025). _Suicidal ideation in the postpartum period._ Journal of Affective Disorders. [DOI](https://doi.org/10.1016/j.jad.2025.119707)
@@ -245,8 +239,6 @@ streamlit run app/app.py
 2. Devlin, J., et al. (2019). _BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding._ arXiv. [Link](https://arxiv.org/abs/1810.04805)
 
 3. Sun, C., et al. (2020). _How to Fine-Tune BERT for Text Classification?_ arXiv. [Link](https://arxiv.org/abs/1905.05583)
-
----
 
 ## ⚖️ Ethics & Privacy
 
@@ -256,18 +248,10 @@ streamlit run app/app.py
 - Model outputs include uncertainty quantification
 - Clear disclaimers about non-diagnostic nature
 
----
-
 ## 📝 License
 
 MIT License - See LICENSE file
 
----
-
 ## 👤 Author
 
-## Julian Khoo
-
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
-
----
+Julian Khoo [GitHub](https://github.com/JulianMKhoo) | [LinkedIn](https://linkedin.com/in/jaratphongmee)
