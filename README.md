@@ -59,9 +59,9 @@ Postpartum depression (PPD) affects 10-15% of new mothers but often goes undetec
 
 ### Model
 
-**Architecture:** DeBERTa-v3-large
+**Architecture:** bert-base-uncased
 
-- Pre-trained transformer with 304M parameters
+- Pre-trained transformer with 110M parameters
 - Fine-tuned for 3-class classification
 - Max sequence length: 512 tokens
 
